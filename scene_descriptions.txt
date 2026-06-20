@@ -1,0 +1,264 @@
+SCENE DESCRIPTIONS — ONE IMAGE PER TIMESTAMP
+==============================================
+Each description below is the prompt used to generate the image for that timestamp.
+All images use the MS Paint stick-figure style (see style_guide.txt).
+
+----------------------------------------------------------------------
+TIMESTAMP: 0:01 | FILE: 0m01s.png
+SCRIPT: "So I decided I was going to the World Cup..."
+IMAGE: A stick figure standing with a small suitcase, looking excited. A thought bubble shows the World Cup trophy. Text on the side: 'World Cup here I come'. The stick figure has a big smile.
+
+----------------------------------------------------------------------
+TIMESTAMP: 0:07 | FILE: 0m07s.png
+SCRIPT: "I saw people online saying things like bro..."
+IMAGE: A stick figure looking at a phone/computer screen. The screen shows text 'bro the World Cup is once in a lifetime'. The stick figure has wide eyes and looks convinced.
+
+----------------------------------------------------------------------
+TIMESTAMP: 0:15 | FILE: 0m15s.png
+SCRIPT: "terrible financial decisions"
+IMAGE: A stick figure with a devil on one shoulder whispering 'terrible financial decisions'. The stick figure is smiling and nodding. A wallet is visible with money flying out.
+
+----------------------------------------------------------------------
+TIMESTAMP: 0:18 | FILE: 0m18s.png
+SCRIPT: "So naturally I booked the trip..."
+IMAGE: A stick figure sitting at a computer clicking a 'BOOK NOW' button. A credit card is on the desk. The stick figure looks determined and happy.
+
+----------------------------------------------------------------------
+TIMESTAMP: 0:24 | FILE: 0m24s.png
+SCRIPT: "I booked a hotel. I even made a spreadsheet..."
+IMAGE: A stick figure next to a checklist on a whiteboard. Items: 'Flight ✓', 'Ticket ✓', 'Hotel ✓'. The stick figure looks proud with hands on hips.
+
+----------------------------------------------------------------------
+TIMESTAMP: 0:26 | FILE: 0m26s.png
+SCRIPT: "Spreadsheet as if I was some kind of financial genius..."
+IMAGE: A stick figure at a desk with a laptop showing a spreadsheet with numbers. The stick figure is wearing tiny glasses and looks smug. Text: 'Budget Master'.
+
+----------------------------------------------------------------------
+TIMESTAMP: 0:35 | FILE: 0m35s.png
+SCRIPT: "I landed in America and suddenly..."
+IMAGE: A stick figure stepping off an airplane onto American ground. A sign says 'WELCOME TO USA'. Dollar signs float everywhere in the air around the figure. The figure looks nervous.
+
+----------------------------------------------------------------------
+TIMESTAMP: 0:42 | FILE: 0m42s.png
+SCRIPT: "Everything cost money"
+IMAGE: A stick figure surrounded by floating dollar signs and price tags on everything - the ground, the air, a bench, a trash can. The figure has a shocked face. Text: 'Everything costs money'.
+
+----------------------------------------------------------------------
+TIMESTAMP: 0:44 | FILE: 0m44s.png
+SCRIPT: "Breathing felt expensive..."
+IMAGE: A stick figure standing outside an airport building, sweating. Wavy heat lines in the air. A thought bubble shows a water bottle. The figure looks desperate.
+
+----------------------------------------------------------------------
+TIMESTAMP: 0:51 | FILE: 0m51s.png
+SCRIPT: "I grabbed one take it to the register..."
+IMAGE: A stick figure at a store counter holding a water bottle. The cashier stick figure points to a price tag showing a ridiculously large number. The buyer has a shocked/confused face.
+
+----------------------------------------------------------------------
+TIMESTAMP: 0:56 | FILE: 0m56s.png
+SCRIPT: "I generally thought she was greeting me a phone number..."
+IMAGE: A stick figure holding a water bottle, blushing, with a thought bubble showing a phone number. The cashier stick figure stands behind the counter. A red question mark floats above the buyer's head.
+
+----------------------------------------------------------------------
+TIMESTAMP: 1:03 | FILE: 1m03s.png
+SCRIPT: "That was the actual price..."
+IMAGE: A stick figure sadly handing over a big pile of money for a tiny water bottle. The figure has tears. The water bottle is tiny compared to the pile of cash.
+
+----------------------------------------------------------------------
+TIMESTAMP: 1:08 | FILE: 1m08s.png
+SCRIPT: "I was no longer thirsty that water became an investment..."
+IMAGE: A stick figure taking a tiny micro-sip from a water bottle, eyes wide, being very careful. The bottle has a golden glow around it. Text: 'liquid gold'.
+
+----------------------------------------------------------------------
+TIMESTAMP: 1:16 | FILE: 1m16s.png
+SCRIPT: "I'm carrying the bottle around like it's the last healing potion..."
+IMAGE: A stick figure walking and clutching a water bottle to their chest protectively, like a precious treasure. A small health bar appears above them like in a video game, nearly empty. Text: 'Last healing potion'.
+
+----------------------------------------------------------------------
+TIMESTAMP: 1:21 | FILE: 1m21s.png
+SCRIPT: "Now I needed to get to my hotel..."
+IMAGE: A stick figure looking at a phone screen showing a rideshare app. A small map is on the screen. A thought bubble shows a hotel building. The figure looks hopeful.
+
+----------------------------------------------------------------------
+TIMESTAMP: 1:25 | FILE: 1m25s.png
+SCRIPT: "I open a rideshare app the ride cost about $20..."
+IMAGE: A stick figure looking at a phone. The phone screen shows '$20' with a small car icon. The figure looks slightly concerned but okay. A speech bubble: 'manageable'.
+
+----------------------------------------------------------------------
+TIMESTAMP: 1:32 | FILE: 1m32s.png
+SCRIPT: "$30 I blink again"
+IMAGE: Same stick figure looking at phone, but now the screen shows '$30'. The figure's eyes are wider. A red arrow pointing up next to the price.
+
+----------------------------------------------------------------------
+TIMESTAMP: 1:35 | FILE: 1m35s.png
+SCRIPT: "$50 at this point the price is moving faster than cryptocurrency..."
+IMAGE: Same stick figure, phone now shows '$50'. The figure is sweating with huge shocked eyes. Multiple red arrows pointing up. The price has a fire emoji drawn next to it.
+
+----------------------------------------------------------------------
+TIMESTAMP: 1:40 | FILE: 1m40s.png
+SCRIPT: "I felt like a stock trader"
+IMAGE: A stick figure watching a phone screen with a rising price chart line going up like a stock market graph. The figure looks panicked. Text: 'STONKS' with a red arrow going up.
+
+----------------------------------------------------------------------
+TIMESTAMP: 1:42 | FILE: 1m42s.png
+SCRIPT: "Finally, I panic and order the ride..."
+IMAGE: A stick figure getting into a simple boxy car (drawn as a rectangle with circles for wheels). The figure is nervously handing money to the driver stick figure.
+
+----------------------------------------------------------------------
+TIMESTAMP: 1:47 | FILE: 1m47s.png
+SCRIPT: "We're barely moving the meter keeps climbing..."
+IMAGE: A stick figure sitting in the back of a car (shown from the side). The car is stuck in traffic (several boxy cars in a line). A meter/counter on the dashboard shows rising numbers. The figure is doing math equations floating around their head.
+
+----------------------------------------------------------------------
+TIMESTAMP: 1:55 | FILE: 1m55s.png
+SCRIPT: "By the time I got to the hotel, I felt like I'd financially sponsored the vehicle"
+IMAGE: A stick figure stepping out of a car at a hotel. The car has a giant receipt trailing behind it. The figure's wallet is completely empty (shown open with moths flying out). The hotel is a simple rectangle building.
+
+----------------------------------------------------------------------
+TIMESTAMP: 1:59 | FILE: 1m59s.png
+SCRIPT: "But I made it finally time to relax..."
+IMAGE: A stick figure lying on a simple bed in a hotel room (rectangle room). The figure looks exhausted but relieved. A speech bubble says 'finally'.
+
+----------------------------------------------------------------------
+TIMESTAMP: 2:04 | FILE: 2m04s.png
+SCRIPT: "See when I booked it the website it was 20 minutes away"
+IMAGE: A split image: on the left, a computer screen showing 'Hotel: 20 min from stadium' with a checkmark. On the right, reality shows a dotted line path that goes all the way across the image with the stadium far far away. A red X over the '20 min'.
+
+----------------------------------------------------------------------
+TIMESTAMP: 2:07 | FILE: 2m07s.png
+SCRIPT: "Which was technically true if you travel by a fighter jet..."
+IMAGE: A stick figure imagining traveling in a fighter jet (simple triangle jet) to the stadium. Versus reality: sitting in traffic in a tiny car. Two panels side by side.
+
+----------------------------------------------------------------------
+TIMESTAMP: 2:13 | FILE: 2m13s.png
+SCRIPT: "I make another mistake I decide to drive huge mistake massive mistake"
+IMAGE: A stick figure getting into a car, looking determined. A big red text stamp says 'HUGE MISTAKE'. Warning signs and red arrows point at the car.
+
+----------------------------------------------------------------------
+TIMESTAMP: 2:20 | FILE: 2m20s.png
+SCRIPT: "I pull into the parking lot"
+IMAGE: A stick figure pulling a simple car into a parking lot. A parking sign is visible. The figure looks unsuspecting.
+
+----------------------------------------------------------------------
+TIMESTAMP: 2:22 | FILE: 2m22s.png
+SCRIPT: "The parking tenant tells me the price and I laughed..."
+IMAGE: A parking attendant stick figure at a booth pointing to a price sign with a huge number. The driver stick figure is laughing. The price has multiple zeros.
+
+----------------------------------------------------------------------
+TIMESTAMP: 2:27 | FILE: 2m27s.png
+SCRIPT: "I thought I was buying the parking lot..."
+IMAGE: A stick figure standing in a parking lot looking at a receipt. A thought bubble shows the figure owning the whole parking lot with a 'SOLD' sign and a deed/certificate. A ribbon-cutting ceremony imagined.
+
+----------------------------------------------------------------------
+TIMESTAMP: 2:32 | FILE: 2m32s.png
+SCRIPT: "I parked the car and mainly start wondering if I should just live there"
+IMAGE: A stick figure next to their parked car, sitting in a lawn chair as if they live there now. A small 'HOME SWEET HOME' sign is taped to the car. A tiny garden is drawn next to the parking spot.
+
+----------------------------------------------------------------------
+TIMESTAMP: 2:39 | FILE: 2m39s.png
+SCRIPT: "I've already invested enough"
+IMAGE: A stick figure looking at a parked car with a calculator. Dollar signs surround the car. A thought bubble: 'I live here now'. The figure shrugs.
+
+----------------------------------------------------------------------
+TIMESTAMP: 2:41 | FILE: 2m41s.png
+SCRIPT: "Eventually I get inside the stadium..."
+IMAGE: A stick figure walking through a big stadium entrance gate (simple arch shape). Inside, many tiny stick figures are visible with different colored flags. The entering figure looks amazed with wide eyes.
+
+----------------------------------------------------------------------
+TIMESTAMP: 2:45 | FILE: 2m45s.png
+SCRIPT: "Fans ever people singing flags from every country..."
+IMAGE: Many stick figures inside a stadium (shown as rows of seats). Tiny flags from different countries. Musical notes floating (people singing). The main figure in the center with arms up, excited. Colorful confetti or streamers.
+
+----------------------------------------------------------------------
+TIMESTAMP: 2:53 | FILE: 2m53s.png
+SCRIPT: "Got hungry now..."
+IMAGE: A stick figure in the stadium crowd, stomach growling (wavy lines from belly). A thought bubble shows food: hot dog, fries, soda. The figure looks hungry.
+
+----------------------------------------------------------------------
+TIMESTAMP: 2:59 | FILE: 2m59s.png
+SCRIPT: "That's a completely different sport"
+IMAGE: A stick figure standing in front of a food stand labeled 'STADIUM FOOD'. The prices on the menu board are absurdly high numbers. The figure's jaw has dropped to the floor.
+
+----------------------------------------------------------------------
+TIMESTAMP: 3:01 | FILE: 3m01s.png
+SCRIPT: "I walked up to a food stand ordered a hot dog a soda and some fries..."
+IMAGE: A stick figure at a food counter. Three items on the counter: a hot dog, a soda cup, and fries. The cashier stick figure shows a huge total. The buyer is looking behind them confused, pointing at themselves. Text: 'Just for me??'
+
+----------------------------------------------------------------------
+TIMESTAMP: 3:07 | FILE: 3m07s.png
+SCRIPT: "I swear the hot dog tasted nervous..."
+IMAGE: A hot dog drawn with a nervous sweating face on it. The hot dog knows it's expensive. The stick figure is sadly eating it. Dollar signs float around the hot dog.
+
+----------------------------------------------------------------------
+TIMESTAMP: 3:15 | FILE: 3m15s.png
+SCRIPT: "My budget spreadsheet is completely dead"
+IMAGE: A stick figure looking at a spreadsheet/paper that is on fire. The spreadsheet has a sad face drawn on it. Text: 'Budget: DEAD'. A small tombstone labeled 'R.I.P. Budget'.
+
+----------------------------------------------------------------------
+TIMESTAMP: 3:19 | FILE: 3m19s.png
+SCRIPT: "The spreadsheet packed its bag and went home"
+IMAGE: A spreadsheet paper with stick legs and arms, carrying a tiny suitcase, walking away. The paper looks angry/tired. A speech bubble from it: 'I quit'. The main stick figure watches sadly.
+
+----------------------------------------------------------------------
+TIMESTAMP: 3:25 | FILE: 3m25s.png
+SCRIPT: "Every time I thought about saving money something cool happened"
+IMAGE: A stick figure looking sad about money, but then another stick figure from a different country (with a different flag) waves hello. Musical notes and hearts appear. The mood shifts from sad to happy.
+
+----------------------------------------------------------------------
+TIMESTAMP: 3:29 | FILE: 3m29s.png
+SCRIPT: "I'd meet fans from another country someone would start chanting..."
+IMAGE: Multiple stick figures from different countries (each holding a tiny different-colored flag) standing together, singing. Musical notes everywhere. Arms linked. Everyone smiling.
+
+----------------------------------------------------------------------
+TIMESTAMP: 3:33 | FILE: 3m33s.png
+SCRIPT: "Random strangers would become best friends for 90 minutes..."
+IMAGE: A group of stick figures that just met, now best friends with arms around each other. A clock shows '90 minutes'. Hearts and musical notes. A soccer ball is nearby.
+
+----------------------------------------------------------------------
+TIMESTAMP: 3:41 | FILE: 3m41s.png
+SCRIPT: "I forget about the fact that I'd spent $18 on a drink"
+IMAGE: A stick figure happily hanging out with new friends but a tiny thought bubble shows '$18 DRINK'. The figure shrugs it off with a smile. The drink is tiny, the fun is big.
+
+----------------------------------------------------------------------
+TIMESTAMP: 3:48 | FILE: 3m48s.png
+SCRIPT: "I'm standing in the team store holding a jersey a scarf a hat a keychain..."
+IMAGE: A stick figure in a team merchandise store surrounded by jerseys, scarves, hats, and keychains on shelves. The figure said 'I won't buy anything' but is now holding everything. A crossed-out speech bubble says 'NO souvenirs'.
+
+----------------------------------------------------------------------
+TIMESTAMP: 3:53 | FILE: 3m53s.png
+SCRIPT: "I still don't know what the purpose of..."
+IMAGE: A stick figure with arms absolutely full of merchandise: jersey, scarf, hat, keychain, and one mystery item with a question mark on it. The figure looks confused at the mystery item.
+
+----------------------------------------------------------------------
+TIMESTAMP: 3:56 | FILE: 3m56s.png
+SCRIPT: "The cashier asked if I want a bag"
+IMAGE: A cashier stick figure asking 'Want a bag?' and the buyer stick figure surrounded by a mountain of merchandise responds 'I need a financial advisor'. The register shows a huge number.
+
+----------------------------------------------------------------------
+TIMESTAMP: 3:58 | FILE: 3m58s.png
+SCRIPT: "Buddy after this purchase. I need a financial advisor"
+IMAGE: A stick figure walking out of a store with tons of bags. Money bills are flying away behind them. The figure's wallet is crying (drawn with a sad face). Text: 'Financial advisor needed'.
+
+----------------------------------------------------------------------
+TIMESTAMP: 4:03 | FILE: 4m03s.png
+SCRIPT: "By the end of the trip my bank account looked like it survived a natural disaster"
+IMAGE: A stick figure looking at a phone/paper showing a bank balance that is nearly zero. The bank account graph line crashes down like a stock market crash. Disaster symbols: cracks, smoke, a tiny explosion.
+
+----------------------------------------------------------------------
+TIMESTAMP: 4:08 | FILE: 4m08s.png
+SCRIPT: "Honestly, it was worth it..."
+IMAGE: A stick figure sitting and smiling, surrounded by happy memory bubbles: the stadium, the fans, the flags, the singing. Despite an empty wallet on the ground, the figure gives a thumbs up. Text: 'Worth it'.
+
+----------------------------------------------------------------------
+TIMESTAMP: 4:14 | FILE: 4m14s.png
+SCRIPT: "Absolutely, but I budget better next time probably..."
+IMAGE: A stick figure pointing forward confidently. A speech bubble: 'I'll budget better next time'. A second tiny thought bubble: 'probably not'. The figure is winking.
+
+----------------------------------------------------------------------
+TIMESTAMP: 4:21 | FILE: 4m21s.png
+SCRIPT: "Absolutely not..."
+IMAGE: A stick figure with a halo and angel wings saying 'I'll follow a budget' but a devil version of the same figure behind says 'ABSOLUTELY NOT'. A budget paper is being torn in half.
+
+----------------------------------------------------------------------
+TIMESTAMP: 4:27 | FILE: 4m27s.png
+SCRIPT: "It's that soccer isn't the most competitive thing in America. It's trying to keep your money"
+IMAGE: A stick figure holding a soccer ball in one hand and an empty wallet in the other. A big sign/banner reads 'The real competition: keeping your money'. The figure shrugs with a funny smile. Dollar signs fly away.

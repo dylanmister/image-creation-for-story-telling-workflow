@@ -1,0 +1,67 @@
+IMAGE STYLE GUIDE — MS PAINT BEGINNER DRAWING STYLE
+=====================================================
+
+REQUIRED STYLE:
+- Extremely simple, beginner drawing made in MS Paint
+- Looks like someone who is NOT good at drawing created it quickly by hand
+- Amateur, funny, simple, and intentionally "bad" — like a noob drew them in Paint
+
+DRAWING RULES:
+- White background
+- Thick, uneven black outlines
+- Wobbly hand-drawn lines
+- Stick-figure humans with round heads and line bodies
+- Simple dot eyes or circle eyes
+- Very basic facial expressions
+- Flat colors only
+- Objects drawn with basic shapes: squares, circles, rectangles, arrows
+- Simple tables, boxes, trees, rooms, signs, screens, question marks, and very simple symbols
+
+DO NOT USE:
+- No realistic shading
+- No 3D
+- No cinematic lighting
+- No realistic cartoon style
+- No Disney style
+- No anime style
+- No polished illustration style
+- No professional vector art
+- No highly detailed backgrounds
+- No complex textures
+- No realistic humans
+- No glossy or modern design
+
+COLOR PALETTE:
+- Mostly white empty space
+- Simple black line drawings
+- Occasional flat (primary and secondary) colors:
+  green, brown, gray, red, yellow, orange, blue
+- Red arrows or red question marks when needed
+
+TEXT RULES:
+- Handwritten text only when it helps explain the idea
+- Text must be spelled correctly
+- Text must be short and easy to read
+
+FORMAT:
+- Every image must be horizontal 16:9 for YouTube video format
+- Generate each image as a wide YouTube frame
+- NOT vertical, NOT square
+- Image must be clear, readable, and centered
+- Leave enough space around characters and objects
+- Do not crop important objects
+- Avoid glitches, broken anatomy, unreadable text, messy overlapping objects, or weird extra details
+
+CONSISTENCY:
+- All images should feel like they belong in the same video
+- Same drawing style across all images
+- Do NOT make the drawings look too good, polished, or professional
+- The entire point is that they look like simple, funny, beginner MS Paint drawings
+
+REFERENCE VISUAL LANGUAGE:
+- Simple black line drawings
+- Mostly white empty space
+- Occasional flat colors
+- Red arrows or red question marks when needed
+- Handwritten text only when it helps explain the idea
+- Keep compositions clear and simple
