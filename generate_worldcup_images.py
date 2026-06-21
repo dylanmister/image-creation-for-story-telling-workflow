@@ -1,19 +1,10 @@
 import os
 import sys
 import time
-import re
 from pathlib import Path
 
-try:
-    from google import genai
-    from google.genai import types
-except ImportError:
-    print("Installing google-genai...")
-    import subprocess
-    subprocess.check_call([sys.executable, "-m", "pip", "install", "google-genai", "Pillow"])
-    from google import genai
-    from google.genai import types
-
+from google import genai
+from google.genai import types
 from PIL import Image
 import io
 
@@ -46,7 +37,7 @@ scenes = [
     ("0m07s", "A stick figure looking at a phone/computer screen. The screen shows text 'bro the World Cup is once in a lifetime'. The stick figure has wide eyes and looks convinced."),
     ("0m15s", "A stick figure with a devil on one shoulder whispering 'terrible financial decisions'. The stick figure is smiling and nodding. A wallet is visible with money flying out."),
     ("0m18s", "A stick figure sitting at a computer clicking a 'BOOK NOW' button. A credit card is on the desk. The stick figure looks determined and happy."),
-    ("0m24s", "A stick figure next to a checklist on a whiteboard. Items: 'Flight ✓', 'Ticket ✓', 'Hotel ✓'. The stick figure looks proud with hands on hips."),
+    ("0m24s", "A stick figure next to a checklist on a whiteboard. Items: 'Flight check', 'Ticket check', 'Hotel check'. The stick figure looks proud with hands on hips."),
     ("0m26s", "A stick figure at a desk with a laptop showing a spreadsheet with numbers. The stick figure is wearing tiny glasses and looks smug. Text: 'Budget Master'."),
     ("0m35s", "A stick figure stepping off an airplane onto American ground. A sign says 'WELCOME TO USA'. Dollar signs float everywhere in the air around the figure. The figure looks nervous."),
     ("0m42s", "A stick figure surrounded by floating dollar signs and price tags on everything - the ground, the air, a bench, a trash can. The figure has a shocked face. Text: 'Everything costs money'."),
@@ -96,20 +87,21 @@ scenes = [
     ("4m27s", "A stick figure holding a soccer ball in one hand and an empty wallet in the other. A big sign/banner reads 'The real competition: keeping your money'. The figure shrugs with a funny smile. Dollar signs fly away."),
 ]
 
+
 def generate_image(timestamp, description, index, total):
     prompt = STYLE_PREFIX + f"Scene description: {description}"
     filename = OUTPUT_DIR / f"{timestamp}.png"
 
     if filename.exists():
-        print(f"  [{index}/{total}] {timestamp} — already exists, skipping.")
+        print(f"  [{index}/{total}] {timestamp} -- already exists, skipping.")
         return True
 
-    print(f"  [{index}/{total}] {timestamp} — generating...")
+    print(f"  [{index}/{total}] {timestamp} -- generating...", flush=True)
 
     for attempt in range(3):
         try:
             response = client.models.generate_images(
-                model="imagen-3.0-generate-002",
+                model="imagen-4.0-generate-001",
                 prompt=prompt,
                 config=types.GenerateImagesConfig(
                     number_of_images=1,
@@ -121,27 +113,29 @@ def generate_image(timestamp, description, index, total):
                 img_bytes = response.generated_images[0].image.image_bytes
                 img = Image.open(io.BytesIO(img_bytes))
                 img.save(str(filename))
-                print(f"  [{index}/{total}] {timestamp} — saved!")
+                print(f"  [{index}/{total}] {timestamp} -- saved! ({len(img_bytes) // 1024} KB)", flush=True)
                 return True
             else:
-                print(f"  [{index}/{total}] {timestamp} — no image returned (attempt {attempt+1})")
+                print(f"  [{index}/{total}] {timestamp} -- no image returned (attempt {attempt+1})", flush=True)
         except Exception as e:
-            print(f"  [{index}/{total}] {timestamp} — error (attempt {attempt+1}): {e}")
+            err = str(e)[:150]
+            print(f"  [{index}/{total}] {timestamp} -- error (attempt {attempt+1}): {err}", flush=True)
             if "429" in str(e) or "quota" in str(e).lower() or "rate" in str(e).lower():
                 wait = 30 * (attempt + 1)
-                print(f"    Rate limited. Waiting {wait}s...")
+                print(f"    Rate limited. Waiting {wait}s...", flush=True)
                 time.sleep(wait)
             else:
                 time.sleep(5)
 
-    print(f"  [{index}/{total}] {timestamp} — FAILED after 3 attempts")
+    print(f"  [{index}/{total}] {timestamp} -- FAILED after 3 attempts", flush=True)
     return False
 
 
 def main():
     total = len(scenes)
     print(f"Generating {total} images for World Cup story...")
-    print(f"Output: {OUTPUT_DIR}\n")
+    print(f"Using: Gemini Imagen 4.0 (paid plan)")
+    print(f"Output: {OUTPUT_DIR}\n", flush=True)
 
     success = 0
     failed = 0
